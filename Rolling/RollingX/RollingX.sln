@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RollingX", "RollingX\RollingX\RollingX.csproj", "{1B3FF0AB-6087-41C8-A74A-3F413ED0C165}"
+EndProject
+Project("{96E2B04D-8817-42C6-938A-82C39BA4D311}") = "RollingXContent", "RollingX\RollingXContent\RollingXContent.contentproj", "{A83399B1-EA64-4DFC-BE3C-76997F65F814}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Xbox 360 = Debug|Xbox 360
+		Release|Xbox 360 = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1B3FF0AB-6087-41C8-A74A-3F413ED0C165}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{1B3FF0AB-6087-41C8-A74A-3F413ED0C165}.Debug|Xbox 360.Build.0 = Debug|Xbox 360
+		{1B3FF0AB-6087-41C8-A74A-3F413ED0C165}.Debug|Xbox 360.Deploy.0 = Debug|Xbox 360
+		{1B3FF0AB-6087-41C8-A74A-3F413ED0C165}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+		{1B3FF0AB-6087-41C8-A74A-3F413ED0C165}.Release|Xbox 360.Build.0 = Release|Xbox 360
+		{1B3FF0AB-6087-41C8-A74A-3F413ED0C165}.Release|Xbox 360.Deploy.0 = Release|Xbox 360
+		{A83399B1-EA64-4DFC-BE3C-76997F65F814}.Debug|Xbox 360.ActiveCfg = Debug|Xbox 360
+		{A83399B1-EA64-4DFC-BE3C-76997F65F814}.Release|Xbox 360.ActiveCfg = Release|Xbox 360
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
